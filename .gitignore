@@ -38,3 +38,7 @@ server.pid
 *.eml
 /dist/
 .cache
+
+### IDEA ###
+.idea/
+.idea_modules/
